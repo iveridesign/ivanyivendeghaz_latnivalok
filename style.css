@@ -136,13 +136,10 @@ a {
 a:hover {
 	color: lightblue;
 }
-table {
-	width: 100%;
-}
 
 table, th, td {
   	border-collapse: collapse;
-  	border-right: 2px solid white;
+  	border-right: 2px solid rgba(247, 214, 185);
 }
 
 th, td, tr {
